@@ -1,0 +1,14 @@
+                                                REACT.JS
+
+*WHAT IS REACT ?
+ 
+  -> REACT IS A JAVASCRIPT LIBRARY.
+
+* TO inject react into our browser we want to use CDN (Content Delivery Networks) 
+
+  -> In CDN links react.developmet.js:- is the core thing of react
+
+* What is react element ?
+   
+  -> React element is a JavaScript object
+  
