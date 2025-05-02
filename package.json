@@ -1,0 +1,27 @@
+{
+  "name": "likhith.react",
+  "version": "1.0.0",
+  "description": "This is a likhith.react by likhith puttabakula",
+  "keywords": [
+    "react",
+    "likhith"
+  ],
+  "homepage": "https://github.com/Likhith-1421/namaste.react#readme",
+  "bugs": {
+    "url": "https://github.com/Likhith-1421/namaste.react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Likhith-1421/namaste.react.git"
+  },
+  "license": "ISC",
+  "author": "likhith puttabakula",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  }
+}
