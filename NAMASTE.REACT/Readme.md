@@ -1,0 +1,68 @@
+                                                REACT.JS
+
+*WHAT IS REACT ?
+ 
+  -> REACT IS A JAVASCRIPT LIBRARY.
+
+* TO inject react into our browser we want to use CDN (Content Delivery Networks) 
+
+  -> In CDN links react.developmet.js:- is the core thing of react
+
+* What is react element ?
+   
+  -> React element is a JavaScript object
+----------------------------------------------------------------------------
+* GIT COMMANDS
+
+  -> git init
+  -> git branch -M  main
+  -> git add .
+  -> git commit -m 'react'
+  -> git remote add origin https://github.com/Likhith-1421/namaste.react.git
+      (GET IT FROM GIT)
+  -> git push origin main
+----------------------------------------------------------------------------
+* NPM 
+  -> NPM is not a node package manager its just a package manager
+  -> Any package we need to include in our project we can include NPM.
+  
+NOTE:- Package.json is the configuration of NPM 
+
+* We can install 2 types of dependences
+
+  -> Dev dependences    -> Normal dependences
+            |                      |
+   used in development      Used in production
+
+* What is parcel ?
+  
+  -> Parcel is a web application bundler.
+  -> It helps developers build websites and web apps by automatically   bundling all your files — HTML, CSS, JavaScript, images, etc. — into something the browser can efficiently load.
+
+
+* What does the parcel do ?
+  
+  -> dev build
+  -> local server
+  -> HMR = Hot module replacement
+  -> File watching algorithm
+  -> Caching - build faster
+  -> image optimization
+  -> minification
+  -> Bundling
+  -> compressing
+  -> differential bundling
+
+
+ 
+
+ 
+* Transitive dependencies
+ 
+  -> In software, a dependency is a package your project relies on. A transitive dependency is a dependency of a dependency.
+
+* What is NPX  ?
+
+  -> It will execute a package.
+
+
