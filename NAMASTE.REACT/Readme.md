@@ -65,4 +65,13 @@ NOTE:- Package.json is the configuration of NPM
 
   -> It will execute a package.
 
+* What is JSX ?
+ 
+  -> JSX is not a html code written in javascript.
+  -> It is html like code written in javascript.
+  -> JSX doesn't understand by v8 engine. It is transpilied before it is reaching to v8 engine.
+  -> TRANSPILIED = The process of converting source code from one high-level programming language to another
+  -> Transpilied is by 'babel' which is a package of parcel.
+  -> JSX => React.createElement => js Object => Html element
+
 
