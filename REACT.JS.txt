@@ -11,7 +11,7 @@
 * What is react element ?
    
   -> React element is a JavaScript object
---------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------
 * GIT COMMANDS
 
   -> git init
@@ -21,7 +21,7 @@
   -> git remote add origin https://github.com/Likhith-1421/namaste.react.git
       (GET IT FROM GIT)
   -> git push origin main
---------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------
 * NPM 
   -> NPM is not a node package manager its just a package manager
   -> Any package we need to include in our project we can include NPM.
@@ -37,3 +37,31 @@ NOTE:- Package.json is the configuration of NPM
 * What is parcel ?
   
   -> Parcel is a web application bundler.
+  -> It helps developers build websites and web apps by automatically   bundling all your files — HTML, CSS, JavaScript, images, etc. — into something the browser can efficiently load.
+
+
+* What does the parcel do ?
+  
+  -> dev build
+  -> local server
+  -> HMR = Hot module replacement
+  -> File watching algorithm
+  -> Caching - build faster
+  -> image optimization
+  -> minification
+  -> Bundling
+  -> compressing
+
+
+ 
+
+ 
+* Transitive dependencies
+ 
+  -> In software, a dependency is a package your project relies on. A transitive dependency is a dependency of a dependency.
+
+* What is NPX  ?
+
+  -> It will execute a package.
+
+

@@ -11,7 +11,7 @@
 * What is react element ?
    
   -> React element is a JavaScript object
-----------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------
 * GIT COMMANDS
 
   -> git init
@@ -21,7 +21,7 @@
   -> git remote add origin https://github.com/Likhith-1421/namaste.react.git
       (GET IT FROM GIT)
   -> git push origin main
-----------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------
 * NPM 
   -> NPM is not a node package manager its just a package manager
   -> Any package we need to include in our project we can include NPM.
@@ -33,7 +33,7 @@ NOTE:- Package.json is the configuration of NPM
   -> Dev dependences    -> Normal dependences
             |                      |
    used in development      Used in production
-
+-------------------------------------------------------------------------------------------------------------
 * What is parcel ?
   
   -> Parcel is a web application bundler.
@@ -52,11 +52,7 @@ NOTE:- Package.json is the configuration of NPM
   -> Bundling
   -> compressing
   -> differential bundling
-
-
- 
-
- 
+-------------------------------------------------------------------------------------------------------------
 * Transitive dependencies
  
   -> In software, a dependency is a package your project relies on. A transitive dependency is a dependency of a dependency.
@@ -64,7 +60,7 @@ NOTE:- Package.json is the configuration of NPM
 * What is NPX  ?
 
   -> It will execute a package.
-
+-------------------------------------------------------------------------------------------------------------
 * What is JSX ?
  
   -> JSX is not a html code written in javascript.
@@ -73,5 +69,17 @@ NOTE:- Package.json is the configuration of NPM
   -> TRANSPILIED = The process of converting source code from one high-level programming language to another
   -> Transpilied is by 'babel' which is a package of parcel.
   -> JSX => React.createElement => js Object => Html element
+  -> If we want to write a multiple jsx code we have to use a paranthasis brackets because to better understand by the babel  '()'.
+-------------------------------------------------------------------------------------------------------------
+* Compailer
+  -> Traditionally, a compiler translates code from a high-level programming language (like       JavaScript) into a lower-level language
 
-
+* Transpiler
+  ->  A transpiler converts code from one high-level language to another high-level language. 
+-------------------------------------------------------------------------------------------------------------
+* In react there are two types of components 
+  ->CLASS BASED COMPONENTS - (Old) 
+  -> FUNCTIONAL BASED COMPONENTS - (New)
+ 
+* FUNCTIONAL COMPONENT
+  -> A javascript function which retuns a react element then it is 'FUNCTIONSL COMPONENT'

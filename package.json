@@ -1,5 +1,5 @@
 {
-  "name": "likhith.react",
+  "name": "charith.react",
   "version": "1.0.0",
   "description": "This is a likhith.react by likhith puttabakula",
   "keywords": [
@@ -17,11 +17,19 @@
   "license": "ISC",
   "author": "likhith puttabakula",
   "type": "commonjs",
-  "main": "index.js",
   "scripts": {
+    "start":"parcel index.html",
+ 
     "test": "jest"
   },
   "devDependencies": {
     "parcel": "^2.14.4"
-  }
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist":[
+    "latest 2 versions"
+  ]
 }
