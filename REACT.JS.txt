@@ -64,4 +64,20 @@ NOTE:- Package.json is the configuration of NPM
 
   -> It will execute a package.
 
+* What are react hooks?
+
+  ->These are normal JAVASCRIPT functions. Written by facebook developers.
+  -> USE SATE HOOK       -> USE EFFECT HOOK
+
+  *React Fiber or Reconcilitation algorithm
+
+  -> It is used to update the dom
+
+
+  *Epsiode - 7
+   -> React Router.
+   
+
+  
+
 

@@ -83,3 +83,4 @@ NOTE:- Package.json is the configuration of NPM
  
 * FUNCTIONAL COMPONENT
   -> A javascript function which retuns a react element then it is 'FUNCTIONSL COMPONENT'
+  -> Writing a component in another component is known as component compositation,

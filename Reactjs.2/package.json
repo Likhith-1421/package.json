@@ -1,0 +1,25 @@
+{
+  "name": "reactjs.2",
+  "version": "1.0.0",
+  "description": "This is react project 2 by Likhith",
+  "keywords": [
+    "React",
+    "project2",
+    "likhith"
+  ],
+  "license": "ISC",
+  "author": "SAI LIKHITH PUTTABAKULA",
+  "type": "module",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  }
+}
